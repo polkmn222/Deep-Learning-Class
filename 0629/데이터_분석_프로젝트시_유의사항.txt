@@ -1,0 +1,43 @@
+0)번 서론 및 해당주제 선정배경
+
+
+1)번 heat_map 숫자와 색깔이 포함된
+     다중상관그래프 
+
+2)번 y_target이 정규성.. <- linear한 함수
+                            +
+                            L2, L1
+                            릿지, 라쏘
+
+2)-1번에서 EDA시 ::      y값외에 X값들끼리의 상관성이 높을경우
+                         발생하는 문제:: 다중공선성
+
+                         다중공선성을 다시금 측정하는 방식
+                         VIF :: 분산팽창지수(python 검색) 
+                         10이상이면 다중공선성이 강하게 있다고
+                         보고 해당 feature를 드롭합니다.
+   
+
+3)번 원-핫 인코딩 <- X값의 object (문자)
+3)-1번 standard scaler
+       minmax scaler
+       log scaler
+
+4) 알고리즘 - 1) linear한 함수계열 - 주요변수
+                 
+
+
+              2) tree계열 의사결정나무
+                 앙상블 - 나무계열 :: 랜포
+                        - 부스팅계열 :: Xgboost <- 적용
+                                       lightgbm <- 적용 - 주요변수
+
+5) 평가지표 :: mse, mae, msle
+
+6) gridsearch, randomsearch developing?? 모르겠다.
+
+7) stacking :: 점수를 올리기 위한 방식
+               변수추출에는 부적합
+
+8) 결과 및 해석
+9) 느낀점 및 한계점 혹은 활용방안 
