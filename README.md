@@ -46,3 +46,6 @@ https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%
 
 ### 0729 
 * PDF_to_Python`s_Text
+
+### 0801
+* python_library
