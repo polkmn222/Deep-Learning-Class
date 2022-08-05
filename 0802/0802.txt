@@ -1,0 +1,6 @@
+시계열 분석을 통해서 y값 데이터를 X값인 시간으로 두고 예측하고자 할 때
+https://www.kaggle.com/code/andreshg/timeseries-analysis-a-complete-guide/notebook
+https://www.kaggle.com/code/kpimparkar/timeseries-analysis-using-lstm-and-gru
+
+이미지 분석시 과거 이중섭 혹은 반 고흐 화가의 그림체로 여러분들이 원하는 그림을 생성할 수 있도록 하는 이미지 딥러닝 코드
+https://github.com/matterport/Mask_RCNN

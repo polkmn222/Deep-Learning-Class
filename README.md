@@ -49,3 +49,11 @@ https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%
 
 ### 0801
 * python_library
+
+### 0802
+* 시계열 분석
+* 이미지 딥러닝 코드
+
+### 0803
+* Getting_Started_Python_Library
+* Basic of Python Lang, ipython
