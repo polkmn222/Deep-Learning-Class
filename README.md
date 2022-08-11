@@ -57,3 +57,6 @@ https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%
 ### 0803
 * Getting_Started_Python_Library
 * Basic of Python Lang, ipython
+
+### 0804
+* 코로나 전후 서울 시내 자전거 이용 분석을 통한 자전거 도로 확충 필요성 제안
