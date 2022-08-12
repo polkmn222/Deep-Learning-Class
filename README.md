@@ -60,3 +60,9 @@ https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%
 
 ### 0804
 * 코로나 전후 서울 시내 자전거 이용 분석을 통한 자전거 도로 확충 필요성 제안
+
+### 0805
+* [정보보안] 비식별화 (k-익명성, l-다양성, t-근접성)
+
+### 0808
+load_the_file_in_OpenCV
